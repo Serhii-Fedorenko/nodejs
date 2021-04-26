@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serhii-Fedorenko/nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serhii-Fedorenko/nodejs/issues"
+  },
+  "homepage": "https://github.com/Serhii-Fedorenko/nodejs#readme",
+  "dependencies": {
+    "joi": "^17.4.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
